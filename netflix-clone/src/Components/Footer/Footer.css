@@ -6,7 +6,7 @@
 }
 
 .footer_inner_container{
-    width: 60%;
+    width: 80%;
     /* background-color: red; */
 }
 .footer_icons {
@@ -35,8 +35,8 @@ height: 12vh;
 }
 .service_code {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     border: #fff 1px solid;
     width: 15%;
     margin: 10px 0;
